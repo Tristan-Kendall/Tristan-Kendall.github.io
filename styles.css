@@ -1,10 +1,12 @@
 body {
-    background-color: lightgrey;
-    width: auto;
-    max-height: 30px;
-
+    margin: 0;
+    margin-block-start: 0;
 }
 div{
-    background-color: white;
+    background-color: lightgrey;
     max-height: auto;
+
+}
+h1{
+    margin-block-start: 0;
 }
